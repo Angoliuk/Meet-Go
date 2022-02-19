@@ -1,0 +1,15 @@
+.navbar {
+  width: 100%;
+  background-color: darkslateblue;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navbar > a,
+.navbar > p {
+  font-size: 21px;
+  text-decoration: none;
+  color: aliceblue;
+  margin: 20px 15px;
+}

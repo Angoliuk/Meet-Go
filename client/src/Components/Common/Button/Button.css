@@ -1,0 +1,61 @@
+.button {
+  padding: 10px 20px;
+  background-color: darkslateblue;
+  border: 2px solid darkslateblue;
+  color: white;
+  transition: 0.7s;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.button:hover {
+  background-color: white;
+  color: darkslateblue;
+}
+.buttonInCard {
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+.createUploadButton {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.authButton {
+  margin-left: 15px;
+}
+
+.createUploadFormButton {
+  width: 100%;
+  margin-bottom: 15px;
+  border: 2px solid darkslateblue;
+  background-color: darkslateblue;
+  border-radius: 10px;
+}
+
+.createUploadFormButton:hover {
+  background-color: white;
+  color: darkslateblue;
+}
+
+.joined {
+  background-color: red;
+  border: 2px solid red;
+}
+
+.join {
+  background-color: green;
+  border: 2px solid green;
+}
+
+.join:hover {
+  background-color: white;
+  color: green;
+}
+
+.joined:hover {
+  background-color: white;
+  color: red;
+}

@@ -1,0 +1,23 @@
+.eventCard {
+  width: 100%;
+  background-color: rgb(159, 151, 206);
+  padding: 30px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.eventCardTitle {
+  font-size: 17px;
+}
+
+.eventCardDate {
+  font-size: 11px;
+  color: dimgrey;
+  margin-left: 20px;
+}
+
+.authorBlock {
+  display: flex;
+  justify-content: space-between;
+}
